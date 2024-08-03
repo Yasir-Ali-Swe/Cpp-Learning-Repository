@@ -1,2 +1,2 @@
-#About This Repository
+#About This Repository.
 This repository is dedicated to my journey of learning C++ as part of my Software Engineering studies at university. It contains a variety of projects and exercises that showcase the concepts and skills I'm developing. From basic syntax and simple programs to more advanced topics like object-oriented programming, data structures, and algorithms, this repository serves as a practical space for me to apply what I'm learning. The code here represents my progress and understanding of C++, and I'm excited to continue expanding my knowledge and capabilities. Please feel free to explore the projects, and don't hesitate to provide feedback or suggestions.
