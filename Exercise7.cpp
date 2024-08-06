@@ -7,11 +7,11 @@ int main()
     cin >> age;
     if (age >= 18)
     {
-        cout << "You are adult.";
+        cout << "You are adult." << endl;
     }
     else
     {
-        cout << "You are kid.";
+        cout << "You are kid." << endl;
     }
     return 0;
 }
