@@ -24,6 +24,5 @@ int main()
     revString(&str, len);
     cout << "String after reverse is..." << endl;
     cout << str << endl;
-    delete str;
     return 0;
 }
